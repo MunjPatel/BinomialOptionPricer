@@ -100,7 +100,7 @@ from datetime import datetime
 from binomial import OptionChains, OptionPricing, OptionDataError, TickerDataError, OptionPricingError
 
 # Load S&P 500 ticker dictionary
-with open('s&p500.json', 'r') as file:
+with open('sp500.json', 'r') as file:
     ticker_dict = json.load(file)
 
 # Title
