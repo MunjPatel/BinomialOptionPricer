@@ -69,7 +69,7 @@ This tool lets you plug in all relevant inputs and instantly get the **fair opti
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/BinomialOptionPricer.git
+git clone https://github.com/<MunjPatel>/BinomialOptionPricer.git
 cd BinomialOptionPricer
 ```
 
